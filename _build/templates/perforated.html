@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section" style="padding-top:1.5rem">
+  <div class="wrap">
+    <p class="kicker">Perforated metal</p>
+    <h1>{{ page.h1 }}</h1>
+    <p class="lede">{{ page.lede }}</p>
+    <div class="material-tabs">
+      {% for m in materials %}<a class="chip" href="{{ m.path }}">{{ m.name }} ({{ m.count }})</a>{% endfor %}
+      <a class="chip" href="/perforated-metal/finder/">Search all {{ stats.perf }} →</a>
+    </div>
+    <div class="stat-tiles">
+      <div><strong>{{ stats.perf }}</strong><span>stock perforations across five materials</span></div>
+      <div><strong>{{ stats.min_hole }}–{{ stats.max_hole }}mm</strong><span>round hole diameters from stock</span></div>
+      <div><strong>{{ stats.min_oa }}–{{ stats.max_oa }}%</strong><span>open area range</span></div>
+      <div><strong>{{ stats.min_thick }}–{{ stats.max_thick }}mm</strong><span>stock thicknesses</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <h2>Perforated sheet by material</h2>
+    <div class="grid grid-3">
+      {% for m in materials %}
+      <article class="card card-link">
+        <img src="{{ m.image }}" alt="{{ m.name }} perforated metal sheet" width="600" height="400" loading="lazy">
+        <div class="card-body"><h3><a class="cover" href="{{ m.path }}">{{ m.name }}</a></h3><p>{{ m.blurb }}</p><span class="meta">{{ m.count }} perforations · {{ m.holes|join(', ') }}</span></div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>Perforated sheet by hole pattern</h2>
+    <div class="grid grid-4">
+      {% for h in holes %}
+      <article class="card card-link">
+        <div class="card-body">
+          {{ h.svg|safe }}
+          <h3 style="margin-top:.8rem"><a class="cover" href="{{ h.path }}">{{ h.name }}</a></h3><p>{{ h.blurb }}</p><span class="meta">{{ h.count }} stock perforations</span>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap prose">
+    <h2>What we perforate</h2>
+    <p>Perforated metal is flat sheet punched with a regular pattern of holes. It is used wherever you need a combination of strength, airflow, light, sound absorption, screening or a distinctive appearance: machine guards, acoustic panels, ventilation grilles, balustrade infill, facades and sunscreens, sieves and filters, speaker grilles, radiator covers and shop fittings.</p>
+    <p>We stock perforated sheet in <a href="/perforated-metal/mild-steel/">mild steel</a>, <a href="/perforated-metal/pre-galvanised-steel/">pre-galvanised steel</a>, <a href="/perforated-metal/stainless-steel/">stainless steel</a>, <a href="/perforated-metal/aluminium/">aluminium</a> and <a href="/perforated-metal/copper/">copper</a>. Patterns follow the DIN 24041 convention: <strong>R</strong> for round holes, <strong>C</strong> for square holes and <strong>LR</strong> for slots, with <strong>T</strong> indicating a 60° staggered pitch and <strong>U</strong> a straight (square) pitch. So <em>R5 T8</em> is a 5mm round hole on an 8mm staggered pitch. Our <a href="/guides/perforated-metal-hole-patterns/">hole pattern guide</a> explains the notation in full.</p>
+    <h2>Stock sheet or bespoke?</h2>
+    <p>Stock perforations are held in standard sheet sizes, typically 2000 × 1000mm and 2500 × 1250mm, and ship on a next-working-day basis. Because we perforate in-house we can also produce non-standard hole sizes, pitches and patterns, leave unperforated margins or areas for fixing, and supply cut-to-size, folded, rolled or coated panels. See <a href="/fabrication-and-coating/">fabrication and coating</a>, or send us a drawing.</p>
+    <h2>How to choose</h2>
+    <p>Start from the job the sheet has to do. For screening and sieving, the hole size is the governing dimension. For guarding, the hole must be small enough to keep fingers and tools out at the working distance. For airflow and acoustics, open area matters most, and staggered round holes give the highest open area for a given hole size. For architectural work, appearance and material finish usually lead. The <a href="/perforated-metal/finder/">perforation finder</a> lets you filter all stock patterns by material, hole shape, hole size, open area and thickness, and the <a href="/guides/open-area-calculator/">open area and weight calculator</a> covers anything not in the catalogue.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap faq">
+    <h2>Perforated metal FAQs</h2>
+    {% for q in faqs %}<details><summary>{{ q.q }}</summary><p>{{ q.a|safe }}</p></details>{% endfor %}
+  </div>
+</section>
+{% endblock %}

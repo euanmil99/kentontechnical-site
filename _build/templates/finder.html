@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section" style="padding-top:1.5rem">
+  <div class="wrap">
+    <p class="kicker">Perforated metal</p>
+    <h1>Perforation finder</h1>
+    <p class="lede">Filter every stock perforation by material, hole shape, hole size, open area and thickness. Click a pattern for full specifications, sheet sizes and lead times.</p>
+    <div class="finder">
+      <div class="finder-controls">
+        <div><label for="fMaterial">Material</label><select id="fMaterial"><option value="">All materials</option>{% for m in materials %}<option value="{{ m.short }}">{{ m.name }}</option>{% endfor %}</select></div>
+        <div><label for="fHole">Hole shape</label><select id="fHole"><option value="">All shapes</option>{% for h in holes %}<option value="{{ h.key }}">{{ h.name }}</option>{% endfor %}</select></div>
+        <div><label for="fSize">Hole size</label><select id="fSize"><option value="">Any</option><option value="0-2">Up to 2mm</option><option value="2.01-5">2–5mm</option><option value="5.01-10">5–10mm</option><option value="10.01-100">Over 10mm</option></select></div>
+        <div><label for="fOpen">Open area</label><select id="fOpen"><option value="">Any</option><option value="0-30">Under 30%</option><option value="30-45">30–45%</option><option value="45-60">45–60%</option><option value="60-100">Over 60%</option></select></div>
+        <div><label for="fThick">Thickness</label><select id="fThick"><option value="">Any</option>{% for t in thicknesses %}<option value="{{ t }}">{{ t }}</option>{% endfor %}</select></div>
+        <div><label for="fSearch">Search</label><input id="fSearch" type="search" placeholder="e.g. R5 T8 or 3mm"></div>
+      </div>
+      <p class="finder-count" id="finderCount"></p>
+    </div>
+    <div class="table-wrap">
+      <table id="finderTable">
+        <thead><tr>
+          <th data-key="code"><button type="button">Pattern</button></th>
+          <th data-key="material"><button type="button">Material</button></th>
+          <th data-key="hole"><button type="button">Hole</button></th>
+          <th data-key="size"><button type="button">Hole size</button></th>
+          <th data-key="pitch"><button type="button">Pitch</button></th>
+          <th data-key="open"><button type="button">Open area</button></th>
+          <th>Thicknesses</th>
+          <th>Stock</th>
+        </tr></thead>
+        <tbody>
+        {% for r in rows %}
+          <tr data-code="{{ r.code }}" data-material="{{ r.material_short }}" data-hole="{{ r.hole }}" data-size="{{ r.size }}" data-pitch="{{ r.pitch }}" data-open="{{ r.oa_num }}" data-thick="{{ r.thick_list|join(' ') }}">
+            <td><a href="{{ r.path }}">{{ r.code }}</a></td>
+            <td>{{ r.material_short }}</td>
+            <td>{{ r.hole_name }}</td>
+            <td>{{ r.hole_desc }}</td>
+            <td>{{ r.pitch_desc }}</td>
+            <td>{{ r.open_area }}</td>
+            <td>{{ r.thick_list|join(', ') }}</td>
+            <td>{% if r.in_stock %}<span class="badge badge-ok">In stock</span>{% else %}<span class="badge badge-warn">5–7 days</span>{% endif %}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <p class="small" style="margin-top:1rem">Can't see the pattern you need? We perforate to order in any of these materials: <a href="/contact/">send us the hole size, pitch, thickness and sheet size</a>.</p>
+  </div>
+</section>
+{% endblock %}

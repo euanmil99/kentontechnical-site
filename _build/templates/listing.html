@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section" style="padding-top:1.5rem">
+  <div class="wrap">
+    <p class="kicker">{{ page.kicker }}</p>
+    <h1>{{ page.h1 }}</h1>
+    <p class="lede">{{ page.lede }}</p>
+    {% if page.chips %}<div class="material-tabs">{% for c in page.chips %}<a class="chip{% if c.active %} active{% endif %}" href="{{ c.path }}">{{ c.name }}</a>{% endfor %}</div>{% endif %}
+    {% if page.intro %}<div class="prose">{{ page.intro|safe }}</div>{% endif %}
+  </div>
+</section>
+
+{% for group in groups %}
+<section class="section{% if loop.index is even %} section-alt{% endif %}" id="{{ group.id }}">
+  <div class="wrap">
+    <div class="section-head"><div><h2>{{ group.title }}</h2>{% if group.text %}<p>{{ group.text }}</p>{% endif %}</div>{% if group.link %}<a class="btn btn-outline" href="{{ group.link.path }}">{{ group.link.name }}</a>{% endif %}</div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr>{% for h in group.cols %}<th>{{ h }}</th>{% endfor %}</tr></thead>
+        <tbody>
+        {% for r in group.rows %}
+          <tr>{% for c in r %}<td>{{ c|safe }}</td>{% endfor %}</tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+{% endfor %}
+
+{% if page.body %}
+<section class="section"><div class="wrap prose">{{ page.body|safe }}</div></section>
+{% endif %}
+{% if page.faqs %}
+<section class="section section-alt"><div class="wrap faq"><h2>{{ page.faq_title or 'Frequently asked questions' }}</h2>{% for q in page.faqs %}<details><summary>{{ q.q }}</summary><p>{{ q.a|safe }}</p></details>{% endfor %}</div></section>
+{% endif %}
+{% endblock %}

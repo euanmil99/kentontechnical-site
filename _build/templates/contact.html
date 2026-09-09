@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section" style="padding-top:1.5rem">
+  <div class="wrap">
+    <p class="kicker">Contact</p>
+    <h1>Get a quote or ask a question</h1>
+    <p class="lede">Tell us the material, pattern (or hole size and pitch), thickness, sheet size and quantity, and whether you need cutting, folding or finishing. Drawings and sketches welcome.</p>
+    <div class="contact-grid">
+      <form class="form" action="mailto:holes@kentons.biz" method="post" enctype="text/plain" id="quoteForm">
+        <label for="name">Name</label><input id="name" name="Name" required autocomplete="name">
+        <label for="company">Company (optional)</label><input id="company" name="Company" autocomplete="organization">
+        <label for="email">Email</label><input id="email" name="Email" type="email" required autocomplete="email">
+        <label for="phone">Phone</label><input id="phone" name="Phone" type="tel" autocomplete="tel">
+        <label for="product">Product or pattern</label><input id="product" name="Product" placeholder="e.g. R5 T8 mild steel, 2mm, 2000 x 1000" >
+        <label for="message">Your requirement</label><textarea id="message" name="Message" required placeholder="Quantity, sizes, finishing, delivery address / postcode…"></textarea>
+        <p style="margin-top:1rem"><button class="btn btn-primary" type="submit">Send enquiry</button></p>
+        <p class="small">Submitting opens your email app with the details filled in, addressed to holes@kentons.biz. Or just email us directly.</p>
+      </form>
+      <div>
+        <div class="contact-card">
+          <h2 style="font-size:1.2rem">Kenton Technical Products Ltd</h2>
+          <address>25/26 Barnack Trading Centre<br>Novers Hill<br>Bristol BS3 5QE</address>
+          <p style="margin-top:1rem"><strong>Phone:</strong> <a href="tel:+441179634579">0117 963 4579</a><br><strong>Email:</strong> <a href="mailto:holes@kentons.biz">holes@kentons.biz</a></p>
+          <p class="small">Monday to Friday. Stock orders placed before the cut-off ship next working day across the UK. Collection from Bristol by arrangement.</p>
+        </div>
+        <div style="margin-top:1.2rem;border-radius:10px;overflow:hidden;border:1px solid var(--line)">
+          <iframe title="Map showing Kenton Technical Products, Barnack Trading Centre, Bristol" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.6100%2C51.4240%2C-2.5920%2C51.4340&amp;layer=mapnik&amp;marker=51.4291%2C-2.6010" width="100%" height="280" style="border:0" loading="lazy"></iframe>
+        </div>
+        <h3 style="margin-top:1.5rem">What to include for a fast quote</h3>
+        <ul class="prose" style="padding-left:1.2rem">
+          <li>Material and grade (e.g. stainless 304, mild steel, aluminium)</li>
+          <li>Pattern code, or hole size, shape and pitch</li>
+          <li>Thickness and sheet size, or finished panel dimensions</li>
+          <li>Quantity, and whether margins or blank areas are needed</li>
+          <li>Any cutting, folding, rolling, powder coating or polishing</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+(function(){var p=new URLSearchParams(location.search).get('ref');if(p){var i=document.getElementById('product');if(i&&!i.value)i.value=p;}})();
+</script>
+{% endblock %}

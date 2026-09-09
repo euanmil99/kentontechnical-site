@@ -1,0 +1,7243 @@
+[
+ {
+  "id": 741,
+  "name": "wire 2.6mm KAM3",
+  "slug": "wire-2-6mm-kam3",
+  "source": "https://kentons.biz/product/wire-2-6mm-kam3/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kam3.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KAM3",
+  "spec": {},
+  "material_detail": "Stainless Steel 316",
+  "pattern": "KAM3",
+  "availability": [
+   {
+    "thickness": "Wire 2.6mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 739,
+  "name": "wire 2.6mm KAM2",
+  "slug": "wire-2-6mm-kam2",
+  "source": "https://kentons.biz/product/wire-2-6mm-kam2/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kam2.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KAM2",
+  "spec": {},
+  "material_detail": "Stainless Steel 316",
+  "pattern": "KAM2",
+  "availability": [
+   {
+    "thickness": "Wire 2.6mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 737,
+  "name": "wire 4.1mm KAM1",
+  "slug": "wire-4-1mm-kam1",
+  "source": "https://kentons.biz/product/wire-4-1mm-kam1/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kam1.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KAM1",
+  "spec": {},
+  "material_detail": "Stainless Steel 316",
+  "pattern": "KAM1",
+  "availability": [
+   {
+    "thickness": "Wire 4.1mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 735,
+  "name": "100 mesh \u2013 wire 0.1mm KW100",
+  "slug": "100-mesh-wire-0-1mm-kw100",
+  "source": "https://kentons.biz/product/100-mesh-wire-0-1mm-kw100/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw100.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW100",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW100 100 mesh 36.2% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.1mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 733,
+  "name": "80 mesh \u2013 wire 0.12mm KW80",
+  "slug": "80-mesh-wire-0-12mm-kw80",
+  "source": "https://kentons.biz/product/80-mesh-wire-0-12mm-kw80/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw80.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW80",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW80 80 mesh 24.5% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.12mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 731,
+  "name": "60 mesh \u2013 wire 0.16mm KW60",
+  "slug": "60-mesh-wire-0-16mm-kw60",
+  "source": "https://kentons.biz/product/60-mesh-wire-0-16mm-kw60/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw60.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW60",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW60 60 mesh 39% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.16mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 729,
+  "name": "30 mesh \u2013 wire 0.2mm KW30",
+  "slug": "30-mesh-wire-0-2mm-kw30",
+  "source": "https://kentons.biz/product/30-mesh-wire-0-2mm-kw30/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw30.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW30",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW30 30 mesh 54% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.2mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 727,
+  "name": "20 mesh \u2013 wire 0.3mm KW20",
+  "slug": "20-mesh-wire-0-3mm-kw20",
+  "source": "https://kentons.biz/product/20-mesh-wire-0-3mm-kw20/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw20.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW20",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW20 20 mesh 57% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.3mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 725,
+  "name": "16 mesh \u2013 wire 0.4mm KW16",
+  "slug": "16-mesh-wire-0-4mm-kw16",
+  "source": "https://kentons.biz/product/16-mesh-wire-0-4mm-kw16/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw16.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW16",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW16 16 mesh 56% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.4mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 723,
+  "name": "10 mesh \u2013 wire 0.45mm KW10",
+  "slug": "10-mesh-wire-0-45mm-kw10",
+  "source": "https://kentons.biz/product/10-mesh-wire-0-45mm-kw10/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw10.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW10",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW10 10 mesh 64% open area",
+  "availability": [
+   {
+    "thickness": "Wire 0.45mm",
+    "size": "1m Wide Roll",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 721,
+  "name": "6 mesh \u2013 wire 1.2mm KW6",
+  "slug": "6-mesh-wire-1-2mm-kw6",
+  "source": "https://kentons.biz/product/6-mesh-wire-1-2mm-kw6/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw6.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW6",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW6 6 mesh 50% open area",
+  "availability": [
+   {
+    "thickness": "Wire 1.2mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 719,
+  "name": "4 mesh \u2013 wire 1.5mm KW4",
+  "slug": "4-mesh-wire-1-5mm-kw4",
+  "source": "https://kentons.biz/product/4-mesh-wire-1-5mm-kw4/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw4.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW4",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW4 4 mesh 58% open area",
+  "availability": [
+   {
+    "thickness": "Wire 1.5mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 717,
+  "name": "2 mesh \u2013 wire 1.5mm KW2",
+  "slug": "2-mesh-wire-1-5mm-kw2",
+  "source": "https://kentons.biz/product/2-mesh-wire-1-5mm-kw2/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/woven-wire-kw2.png",
+  "cats": [
+   "woven-wire"
+  ],
+  "family": "woven",
+  "code": "KW2",
+  "spec": {},
+  "material_detail": "Stainless Steel 304",
+  "pattern": "KW2 2 mesh 77.5% open area",
+  "availability": [
+   {
+    "thickness": "Wire 1.5mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 702,
+  "name": "3\u2033 x 0.5\u2033 centres \u2013 pattern KWE3",
+  "slug": "3-x-0-5-centres-pattern-kwe3",
+  "source": "https://kentons.biz/product/3-x-0-5-centres-pattern-kwe3/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/welded-wire-KWE3.png",
+  "cats": [
+   "welded-wire"
+  ],
+  "family": "welded",
+  "code": "KWE3",
+  "spec": {},
+  "pattern": "KWE3 3\u2033 x 0.5\u2033 x 12g",
+  "availability": [
+   {
+    "thickness": "3.0mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": true
+   }
+  ],
+  "notes": [
+   "Also available in Grade 316"
+  ]
+ },
+ {
+  "id": 700,
+  "name": "2\u2033 x 2\u2033 centres \u2013 pattern KWE2",
+  "slug": "2-x-2-centres-pattern-kwe2",
+  "source": "https://kentons.biz/product/2-x-2-centres-pattern-kwe2/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/welded-wire-KWE2.png",
+  "cats": [
+   "welded-wire"
+  ],
+  "family": "welded",
+  "code": "KWE2",
+  "spec": {},
+  "pattern": "KWE2 2\u2033 x 2\u2033 x 10g",
+  "availability": [
+   {
+    "thickness": "3.0mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": true
+   }
+  ],
+  "notes": [
+   "Also available in Grade 316"
+  ]
+ },
+ {
+  "id": 698,
+  "name": "1\u2033 x 1\u2033 centres \u2013 pattern KWE1",
+  "slug": "1-x-1-centres-pattern-kwe1",
+  "source": "https://kentons.biz/product/1-x-1-centres-pattern-kwe1/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/welded-wire-KWE1.png",
+  "cats": [
+   "welded-wire"
+  ],
+  "family": "welded",
+  "code": "KWE1",
+  "spec": {},
+  "pattern": "KWE1 1\u2033 x 1\u2033 x 10g",
+  "availability": [
+   {
+    "thickness": "3.0mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": true
+   }
+  ],
+  "notes": [
+   "Also available in Grade 316"
+  ]
+ },
+ {
+  "id": 696,
+  "name": "0.5\u2033 x 0.5\u2033 centres \u2013 pattern KWE05",
+  "slug": "0-5-x-0-5-centres-pattern-kwe05",
+  "source": "https://kentons.biz/product/0-5-x-0-5-centres-pattern-kwe05/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/welded-wire-KWE05.png",
+  "cats": [
+   "welded-wire"
+  ],
+  "family": "welded",
+  "code": "KWE05",
+  "spec": {},
+  "pattern": "KWE05 0.5\u2033 x 0.5\u2033 x 16g",
+  "availability": [
+   {
+    "thickness": "1.7mm",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": true
+   }
+  ],
+  "notes": [
+   "Also available in Grade 316"
+  ]
+ },
+ {
+  "id": 689,
+  "name": "3 m length \u2013 pattern KT-S",
+  "slug": "3-m-length-pattern-kt-s",
+  "source": "https://kentons.biz/product/3-m-length-pattern-kt-s/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/pattern-KT-S.png",
+  "cats": [
+   "profile-edging"
+  ],
+  "family": "edging",
+  "code": "KT-S",
+  "spec": {},
+  "pattern": "KT-S",
+  "availability": [
+   {
+    "thickness": "1.7mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 687,
+  "name": "3 m length \u2013 pattern KT-E",
+  "slug": "3-m-length-pattern-kt-e",
+  "source": "https://kentons.biz/product/3-m-length-pattern-kt-e/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/pattern-KT-E.png",
+  "cats": [
+   "profile-edging"
+  ],
+  "family": "edging",
+  "code": "KT-E",
+  "spec": {},
+  "pattern": "KT-E",
+  "availability": [
+   {
+    "thickness": "1.7mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 685,
+  "name": "3 m length \u2013 pattern KS-B",
+  "slug": "3-m-length-pattern-ks-b",
+  "source": "https://kentons.biz/product/3-m-length-pattern-ks-b/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/pattern-KS-B.png",
+  "cats": [
+   "profile-edging"
+  ],
+  "family": "edging",
+  "code": "KS-B",
+  "spec": {},
+  "pattern": "KS-B",
+  "availability": [
+   {
+    "thickness": "1.3mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Available polished (240Grit)"
+  ]
+ },
+ {
+  "id": 683,
+  "name": "3 m length \u2013 pattern KR-B",
+  "slug": "3-m-length-pattern-kr-b",
+  "source": "https://kentons.biz/product/3-m-length-pattern-kr-b/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/pattern-KR-B.png",
+  "cats": [
+   "profile-edging"
+  ],
+  "family": "edging",
+  "code": "KR-B",
+  "spec": {},
+  "pattern": "KR-B",
+  "availability": [
+   {
+    "thickness": "1.3mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.3mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Mild Steel",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.7mm",
+    "size": "Stainless 304",
+    "status": "In-stock",
+    "note": true
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Mild Steel",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Pre-Galvanised",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Aluminium",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.7mm",
+    "size": "Stainless 304",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Available polished (240Grit)"
+  ]
+ },
+ {
+  "id": 681,
+  "name": "3.81m length \u2013 pattern KU-C",
+  "slug": "3-81m-length-pattern-ku-c",
+  "source": "https://kentons.biz/product/3-81m-length-pattern-ku-c/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/pattern-KU-C.png",
+  "cats": [
+   "profile-edging"
+  ],
+  "family": "edging",
+  "code": "KU-C",
+  "spec": {},
+  "pattern": "KU-C",
+  "availability": [
+   {
+    "thickness": "1.8mm",
+    "size": "Mild Steel",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Pre-Galvanised",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Aluminium",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.8mm",
+    "size": "Stainless 304",
+    "status": "In-stock",
+    "note": true
+   },
+   {
+    "thickness": "3.4mm",
+    "size": "Mild Steel",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.4mm",
+    "size": "Pre-Galvanised",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "3.4mm",
+    "size": "Aluminium",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.4mm",
+    "size": "Stainless 304",
+    "status": "In-stock",
+    "note": true
+   },
+   {
+    "thickness": "6.5mm",
+    "size": "Mild Steel",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "6.5mm",
+    "size": "Pre-Galvanised",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "6.5mm",
+    "size": "Aluminium",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "6.5mm",
+    "size": "Stainless 304",
+    "status": "3-5 days",
+    "note": true
+   },
+   {
+    "thickness": "10.2mm",
+    "size": "Mild Steel",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "10.2mm",
+    "size": "Pre-Galvanised",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "10.2mm",
+    "size": "Aluminium",
+    "status": "3-5 days",
+    "note": false
+   },
+   {
+    "thickness": "10.2mm",
+    "size": "Stainless 304",
+    "status": "3-5 days",
+    "note": true
+   }
+  ],
+  "notes": [
+   "Available polished (240Grit)"
+  ]
+ },
+ {
+  "id": 641,
+  "name": "6240M \u2013 60.9 x 25.4mm diamond",
+  "slug": "6240m-60-9-x-25-4mm-diamond",
+  "source": "https://kentons.biz/product/6240m-60-9-x-25-4mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-raised-mesh-new.jpg",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "6240M",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "6240M",
+  "availability": [
+   {
+    "thickness": "6.09mm strand 4.75mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 640,
+  "name": "7630M \u2013 76.0 x 33.0mm diamond",
+  "slug": "7630m-76-0-x-33-0mm-diamond",
+  "source": "https://kentons.biz/product/7630m-76-0-x-33-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-raised-mesh-new.jpg",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "7630M",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "7630M",
+  "availability": [
+   {
+    "thickness": "3.6mm strand 3.0mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 638,
+  "name": "5230M \u2013 51.0 x 22.5mm diamond",
+  "slug": "5230m-51-0-x-22-5mm-diamond",
+  "source": "https://kentons.biz/product/5230m-51-0-x-22-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-raised-mesh-new.jpg",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "5230M",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "5230M",
+  "availability": [
+   {
+    "thickness": "3.0mm strand 3.0mm thick",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 637,
+  "name": "3815S \u2013 38.1 x 16.5mm diamond",
+  "slug": "3815s-38-1-x-16-5mm-diamond",
+  "source": "https://kentons.biz/product/3815s-38-1-x-16-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "3815S",
+  "spec": {},
+  "material_detail": "Stainless 304",
+  "pattern": "3815S",
+  "availability": [
+   {
+    "thickness": "1.9mm strand 1.2mm thick",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 636,
+  "name": "3812A \u2013 38.0 x 17.0mm diamond",
+  "slug": "3812a-38-0-x-17-0mm-diamond",
+  "source": "https://kentons.biz/product/3812a-38-0-x-17-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "3812A",
+  "spec": {},
+  "material_detail": "Aluminium",
+  "pattern": "3812A",
+  "availability": [
+   {
+    "thickness": "2.3mm strand 1.2mm thick",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 635,
+  "name": "3015M \u2013 31.0 x 11.5mm diamond",
+  "slug": "3015m-31-0-x-11-5mm-diamond",
+  "source": "https://kentons.biz/product/3015m-31-0-x-11-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "3015M",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "3015M",
+  "availability": [
+   {
+    "thickness": "2.5mm strand 1.5mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 633,
+  "name": "0606M \u2013 6.0 x 3.0mm diamond",
+  "slug": "0606m-6-0-x-3-0mm-diamond",
+  "source": "https://kentons.biz/product/0606m-6-0-x-3-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-101847.png",
+  "cats": [
+   "expanded-metal",
+   "raised-sheet"
+  ],
+  "family": "expanded",
+  "sub": "raised",
+  "code": "0606M",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "0606M",
+  "availability": [
+   {
+    "thickness": "0.8mm strand 0.6mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 631,
+  "name": "5121MF \u2013 43.0 x 18.0mm diamond",
+  "slug": "5121mf-43-0-x-18-0mm-diamond",
+  "source": "https://kentons.biz/product/5121mf-43-0-x-18-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "5121MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "5121MF",
+  "availability": [
+   {
+    "thickness": "2.5mm strand 1.2mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 629,
+  "name": "5230MF \u2013 39.0 x 18.0mm diamond",
+  "slug": "5230mf-39-0-x-18-0mm-diamond",
+  "source": "https://kentons.biz/product/5230mf-39-0-x-18-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-flattened-mesh-new.jpg",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "5230MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "5230MF",
+  "availability": [
+   {
+    "thickness": "4.7mm strand 2.7mm thick",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 628,
+  "name": "3812AF \u2013 35.0 x 12.0mm diamond",
+  "slug": "3812af-35-0-x-12-0mm-diamond",
+  "source": "https://kentons.biz/product/3812af-35-0-x-12-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "3812AF",
+  "spec": {},
+  "material_detail": "Aluminium",
+  "pattern": "3812AF",
+  "availability": [
+   {
+    "thickness": "2.3mm strand 1.1mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 627,
+  "name": "4216MF \u2013 33.0 x 10.5mm diamond",
+  "slug": "4216mf-33-0-x-10-5mm-diamond",
+  "source": "https://kentons.biz/product/4216mf-33-0-x-10-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "4216MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "4216MF",
+  "availability": [
+   {
+    "thickness": "2.5mm strand 1.2mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 626,
+  "name": "3013MF \u2013 24.0 x 7.5mm diamond",
+  "slug": "3013mf-24-0-x-7-5mm-diamond",
+  "source": "https://kentons.biz/product/3013mf-24-0-x-7-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "3013MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "3013MF",
+  "availability": [
+   {
+    "thickness": "2.0mm strand 1.2mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 625,
+  "name": "1610AF \u2013 19.0 x 7.5mm diamond",
+  "slug": "1610af-19-0-x-7-5mm-diamond",
+  "source": "https://kentons.biz/product/1610af-19-0-x-7-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "1610AF",
+  "spec": {},
+  "material_detail": "Aluminium",
+  "pattern": "1610AF",
+  "availability": [
+   {
+    "thickness": "1.2mm strand 0.9mm thick",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 623,
+  "name": "2210MF \u2013 14.5 x 4.5mm diamond",
+  "slug": "2210mf-14-5-x-4-5mm-diamond",
+  "source": "https://kentons.biz/product/2210mf-14-5-x-4-5mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/expanded-metal-154251.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "2210MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "2210MF",
+  "availability": [
+   {
+    "thickness": "1.8mm strand 1.0mm thick",
+    "size": "2440 x 1220mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 621,
+  "name": "1010MF \u2013 6.0 x 3.0mm diamond",
+  "slug": "1010mf-6-0-x-3-0mm-diamond",
+  "source": "https://kentons.biz/product/1010mf-6-0-x-3-0mm-diamond/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/07/1010MF-6.0-x-3.0-diamond.png",
+  "cats": [
+   "expanded-metal",
+   "flat-sheet"
+  ],
+  "family": "expanded",
+  "sub": "flat",
+  "code": "1010MF",
+  "spec": {},
+  "material_detail": "Mild Steel",
+  "pattern": "1010MF",
+  "availability": [
+   {
+    "thickness": "1.4mm strand 1.0mm thick",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 596,
+  "name": "R20 U48.5 \u2013 20mm Hole 48.5mm Pitch",
+  "slug": "r20-u48-5-20mm-hole-48-5mm-pitch-stainless-304",
+  "source": "https://kentons.biz/product/r20-u48-5-20mm-hole-48-5mm-pitch-stainless-304/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R20mm-U48.5mm.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-square-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-square",
+  "code": "R20 U48.5",
+  "spec": {
+   "Perforated sheet in": "Stainless 304",
+   "Dimension": "2 x (b) x (l) mm",
+   "Perforation": "R20 U48.5 DIN 24041",
+   "Open area": "13%"
+  },
+  "pattern": "K510 R20 U48.5",
+  "material_detail": "Stainless 304",
+  "open_area": "13%",
+  "perforation": "R20 U48.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 595,
+  "name": "R10 U26 \u2013 10mm Hole 26mm Pitch",
+  "slug": "r10-u26-10mm-hole-26mm-pitch-stainless-304",
+  "source": "https://kentons.biz/product/r10-u26-10mm-hole-26mm-pitch-stainless-304/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U26mm.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-square-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-square",
+  "code": "R10 U26",
+  "spec": {
+   "Perforated sheet in": "Stainless 304",
+   "Dimension": "2 x (b) x (l) mm",
+   "Perforation": "R10 U26 DIN 24041",
+   "Open area": "12%"
+  },
+  "pattern": "K465 R10 U26",
+  "material_detail": "Stainless 304",
+  "open_area": "12%",
+  "perforation": "R10 U26 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 594,
+  "name": "R4.5 U15 \u2013 4.5mm Hole 15mm Pitch",
+  "slug": "r4-5-u15-4-5mm-hole-15mm-pitch-stainless-304",
+  "source": "https://kentons.biz/product/r4-5-u15-4-5mm-hole-15mm-pitch-stainless-304/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R4.5mm-U15mm.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-square-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-square",
+  "code": "R4.5 U15",
+  "spec": {
+   "Perforated sheet in": "Stainless 304",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R4.5 U15 DIN 24041",
+   "Open area": "7%"
+  },
+  "pattern": "K450 R4.5 U15",
+  "material_detail": "Stainless 304",
+  "open_area": "7%",
+  "perforation": "R4.5 U15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 593,
+  "name": "LR5x20 \u2013 20mm Hole",
+  "slug": "lr5x20-20mm-hole-stainless-304",
+  "source": "https://kentons.biz/product/lr5x20-20mm-hole-stainless-304/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5x20mmhole-LR5x20.jpg",
+  "cats": [
+   "perforated-metal",
+   "slotted-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "slotted",
+  "code": "LR5x20",
+  "spec": {
+   "Perforated sheet in": "Stainless 304",
+   "Dimension": "0.7 x 1000 x 2000 mm",
+   "Perforation": "LR5x20 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "KS5M Lvl 5\u00d720",
+  "material_detail": "Stainless 304",
+  "open_area": "44%",
+  "perforation": "LR5x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 592,
+  "name": "C20 U50 \u2013 20mm Hole 50mm Pitch",
+  "slug": "c20-u50-20mm-hole-50mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c20-u50-20mm-hole-50mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-20mmhole-50mmpitch-C20U50.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C20 U50",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C20 U50 DIN 24041",
+   "Open area": "16%"
+  },
+  "pattern": "K143S C20 U50",
+  "material_detail": "Stainless steel",
+  "open_area": "16%",
+  "perforation": "C20 U50 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 590,
+  "name": "C10 U30 \u2013 10mm Hole 30mm Pitch",
+  "slug": "c10-u30-10mm-hole-30mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c10-u30-10mm-hole-30mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-10mmhole-30mmpitch-C10U30.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C10 U30",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U30 DIN 24041",
+   "Open area": "11%"
+  },
+  "pattern": "K142S C10 U30",
+  "material_detail": "Stainless steel",
+  "open_area": "11%",
+  "perforation": "C10 U30 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 589,
+  "name": "C10 U15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "c10-u15-10mm-hole-15mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c10-u15-10mm-hole-15mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch-C10U15.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C10 U15",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U15 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K140S C10 U15",
+  "material_detail": "Stainless steel",
+  "open_area": "44%",
+  "perforation": "C10 U15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 588,
+  "name": "C10 U14 \u2013 10mm Hole 14mm Pitch",
+  "slug": "c10-u14-10mm-hole-14mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c10-u14-10mm-hole-14mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-14mmpitch-C10U14.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C10 U14",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U14 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K135S C10 U14",
+  "material_detail": "Stainless steel",
+  "open_area": "69%",
+  "perforation": "C10 U14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 587,
+  "name": "C10 U12 \u2013 10mm Hole 12mm Pitch",
+  "slug": "c10-u12-10mm-hole-12mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c10-u12-10mm-hole-12mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-12mmpitch-C10U12.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C10 U12",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U12 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K130S C10 U12",
+  "material_detail": "Stainless steel",
+  "open_area": "69%",
+  "perforation": "C10 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 586,
+  "name": "C8 U24 \u2013 8mm Hole 24mm Pitch",
+  "slug": "c8-u24-8mm-hole-24mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c8-u24-8mm-hole-24mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-8mmhole-24mmpitch-C8U24.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C8 U24",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "C7 U10 DIN 24041",
+   "Open area": "11%"
+  },
+  "pattern": "K127S C8 U24",
+  "material_detail": "Stainless steel",
+  "open_area": "11%",
+  "perforation": "C7 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 585,
+  "name": "C8 U12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "c8-u12-8mm-hole-12mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c8-u12-8mm-hole-12mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch-C8U12.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C8 U12",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C8 U12 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K125S C8 U12",
+  "material_detail": "Stainless steel",
+  "open_area": "44%",
+  "perforation": "C8 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 584,
+  "name": "C8 U10 \u2013 8mm Hole 10mm Pitch",
+  "slug": "c8-u10-8mm-hole-10mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c8-u10-8mm-hole-10mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-10mmpitch-C8U10.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C8 U10",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "C8 U10 DIN 24041",
+   "Open area": "64%"
+  },
+  "pattern": "K120S C8 U10",
+  "material_detail": "Stainless steel",
+  "open_area": "64%",
+  "perforation": "C8 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 583,
+  "name": "C5 U8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "c5-u8-5mm-hole-8mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/c5-u8-5mm-hole-8mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5mmhole-8mmpitch-C5U8.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "square",
+  "code": "C5 U8",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C5 U8 DIN 24041",
+   "Open area": "39%"
+  },
+  "pattern": "K110S C5 U8",
+  "material_detail": "Stainless steel",
+  "open_area": "39%",
+  "perforation": "C5 U8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 582,
+  "name": "R20 T28 \u2013 20mm Hole 28mm Pitch",
+  "slug": "r20-t28-20mm-hole-28mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r20-t28-20mm-hole-28mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-20mmhole-28mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R20 T28",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R20 T28 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K080S R20 T28",
+  "material_detail": "Stainless steel",
+  "open_area": "46%",
+  "perforation": "R20 T28 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": true
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 581,
+  "name": "R15 T21 \u2013 15mm Hole 21mm Pitch",
+  "slug": "r15-t21-15mm-hole-21mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r15-t21-15mm-hole-21mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-15mmhole-21mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R15 T21",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R15 T21 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K075S R15 T21",
+  "material_detail": "Stainless steel",
+  "open_area": "46%",
+  "perforation": "R15 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 580,
+  "name": "R10 T15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "r10-t15-10mm-hole-15mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r10-t15-10mm-hole-15mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R10 T15",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R10 T15 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K065S R10 T15",
+  "material_detail": "Stainless steel",
+  "open_area": "40%",
+  "perforation": "R10 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 578,
+  "name": "R10 T13 \u2013 10mm Hole 13mm Pitch",
+  "slug": "r10-t13-10mm-hole-13mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r10-t13-10mm-hole-13mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-10mmhole-13mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R10 T13",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "R10 T13 DIN 24041",
+   "Open area": "54%"
+  },
+  "pattern": "K061S R10 T13",
+  "material_detail": "Stainless steel",
+  "open_area": "54%",
+  "perforation": "R10 T13 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 577,
+  "name": "R8 T12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "r8-t12-8mm-hole-12mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r8-t12-8mm-hole-12mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R8 T12",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R8 T12 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K060S R8 T12",
+  "material_detail": "Stainless steel",
+  "open_area": "40%",
+  "perforation": "R8 T12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 576,
+  "name": "R8 T11 \u2013 8mm Hole 11mm Pitch",
+  "slug": "r8-t11-8mm-hole-11mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r8-t11-8mm-hole-11mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-11mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R8 T11",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R8 T11 DIN 24041",
+   "Open area": "48%"
+  },
+  "pattern": "K055S R8 T11",
+  "material_detail": "Stainless steel",
+  "open_area": "48%",
+  "perforation": "R8 T11 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 575,
+  "name": "R6 T9 \u2013 6mm Hole 9mm Pitch",
+  "slug": "r6-t9-6mm-hole-9mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r6-t9-6mm-hole-9mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-9mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R6 T9",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R6 T9 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K050S R6 T9",
+  "material_detail": "Stainless steel",
+  "open_area": "40%",
+  "perforation": "R6 T9 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 573,
+  "name": "R5 T8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "r5-t8-5mm-hole-8mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r5-t8-5mm-hole-8mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/04/perforated-metal-5mmhole-8mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R5 T8",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R5 T8 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K045S R5 T8",
+  "material_detail": "Stainless steel",
+  "open_area": "35%",
+  "perforation": "R5 T8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": true
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   }
+  ],
+  "notes": [
+   "Also available polished(240 grit)"
+  ]
+ },
+ {
+  "id": 572,
+  "name": "R4 T6 \u2013 4mm Hole 6mm Pitch",
+  "slug": "r4-t6-4mm-hole-6mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r4-t6-4mm-hole-6mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R4 T6",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1.5 x 1000 x 2000 mm",
+   "Perforation": "R4 T6 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K035S R4 T6",
+  "material_detail": "Stainless steel",
+  "open_area": "40%",
+  "perforation": "R4 T6 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 571,
+  "name": "R3 T5 \u2013 3mm Hole 5mm Pitch",
+  "slug": "r3-t5-3mm-hole-5mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r3-t5-3mm-hole-5mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R3 T5",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "0.5 x 1000 x 2000 mm",
+   "Perforation": "R3 T5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K030S R3 T5",
+  "material_detail": "Stainless steel",
+  "open_area": "32%",
+  "perforation": "R3 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 570,
+  "name": "R2 T3.5 \u2013 2mm Hole 3.5mm Pitch",
+  "slug": "r2-t3-5-2mm-hole-3-5mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r2-t3-5-2mm-hole-3-5mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2mmhole-3.5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R2 T3.5",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R2 T3.5 DIN 24041",
+   "Open area": "30%"
+  },
+  "pattern": "K015S R2 T3.5",
+  "material_detail": "Stainless steel",
+  "open_area": "30%",
+  "perforation": "R2 T3.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock*",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 569,
+  "name": "R1.5 T2.5 \u2013 1.5mm Hole 2.5mm Pitch",
+  "slug": "r1-5-t2-5-1-5mm-hole-2-5mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r1-5-t2-5-1-5mm-hole-2-5mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1.5mmhole-2.5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R1.5 T2.5",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "1.5 T2.5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K005S R1.5 T2.5",
+  "material_detail": "Stainless steel",
+  "open_area": "32%",
+  "perforation": "1.5 T2.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 567,
+  "name": "R1.1 T2 \u2013 1.1mm Hole 2mm Pitch",
+  "slug": "r1-1-t2-1-1mm-hole-2mm-pitch-stainless-steel",
+  "source": "https://kentons.biz/product/r1-1-t2-1-1mm-hole-2mm-pitch-stainless-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1mmhole-2mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "round-hole-staggered-pitch-stainless-steel",
+   "stainless-steel"
+  ],
+  "family": "perforated",
+  "material": "Stainless Steel",
+  "hole": "round-staggered",
+  "code": "R1.1 T2",
+  "spec": {
+   "Perforated sheet in": "Stainless steel",
+   "Dimension": "0.5 x 1000 x 2000 mm",
+   "Perforation": "1.1 T2 DIN 24041",
+   "Open area": "27%"
+  },
+  "pattern": "K001S R1.1 T2",
+  "material_detail": "Stainless steel",
+  "open_area": "27%",
+  "perforation": "1.1 T2 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.8mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 558,
+  "name": "LR5x20 \u2013 20mm Hole",
+  "slug": "lr5x20-20mm-hole-copper",
+  "source": "https://kentons.biz/product/lr5x20-20mm-hole-copper/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5x20mmhole-LR5x20.jpg",
+  "cats": [
+   "copper",
+   "perforated-metal",
+   "slotted-hole-copper"
+  ],
+  "family": "perforated",
+  "material": "Copper",
+  "hole": "slotted",
+  "code": "LR5x20",
+  "spec": {
+   "Perforated sheet in": "Copper",
+   "Dimension": "0.7 x 1000 x 2000 mm",
+   "Perforation": "LR5x20 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "KS5M Lvl 5\u00d720",
+  "material_detail": "Copper",
+  "open_area": "44%",
+  "perforation": "LR5x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 557,
+  "name": "R8 T10 \u2013 8mm Hole 10mm Pitch",
+  "slug": "r8-t10-8mm-hole-10mm-pitch-copper",
+  "source": "https://kentons.biz/product/r8-t10-8mm-hole-10mm-pitch-copper/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-10mmpitch.jpg",
+  "cats": [
+   "copper",
+   "perforated-metal",
+   "round-hole-staggered-pitch-copper"
+  ],
+  "family": "perforated",
+  "material": "Copper",
+  "hole": "round-staggered",
+  "code": "R8 T10",
+  "spec": {
+   "Perforated sheet in": "Copper",
+   "Dimension": "0.7 x 1000 x 2000 mm",
+   "Perforation": "R8 T10 DIN 24041",
+   "Open area": "58%"
+  },
+  "pattern": "K049C R8 T10",
+  "material_detail": "Copper",
+  "open_area": "58%",
+  "perforation": "R8 T10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.7mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 556,
+  "name": "R5 T7 \u2013 5mm Hole 7mm Pitch",
+  "slug": "r5-t7-5mm-hole-7mm-pitch-copper",
+  "source": "https://kentons.biz/product/r5-t7-5mm-hole-7mm-pitch-copper/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-5mmhole-7mmpitch.jpg",
+  "cats": [
+   "copper",
+   "perforated-metal",
+   "round-hole-staggered-pitch-copper"
+  ],
+  "family": "perforated",
+  "material": "Copper",
+  "hole": "round-staggered",
+  "code": "R5 T7",
+  "spec": {
+   "Perforated sheet in": "Copper",
+   "Dimension": "0.6 x 1000 x 2000 mm",
+   "Perforation": "R5 T7 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K040C R5 T7",
+  "material_detail": "Copper",
+  "open_area": "46%",
+  "perforation": "R5 T7 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.6mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.7mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 555,
+  "name": "R4 T5 \u2013 4mm Hole 5mm Pitch",
+  "slug": "r4-t5-4mm-hole-5mm-pitch-copper",
+  "source": "https://kentons.biz/product/r4-t5-4mm-hole-5mm-pitch-copper/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "copper",
+   "perforated-metal",
+   "round-hole-staggered-pitch-copper"
+  ],
+  "family": "perforated",
+  "material": "Copper",
+  "hole": "round-staggered",
+  "code": "R4 T5",
+  "spec": {
+   "Perforated sheet in": "Copper",
+   "Dimension": "0.6 x 1000 x 2000 mm",
+   "Perforation": "R4 T5 DIN 24041",
+   "Open area": "58%"
+  },
+  "pattern": "K130C R4 T5",
+  "material_detail": "Copper",
+  "open_area": "58%",
+  "perforation": "R4 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.6mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.7mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 554,
+  "name": "R3 T5 \u2013 3mm Hole 5mm Pitch",
+  "slug": "r3-t5-3mm-hole-5mm-pitch-copper",
+  "source": "https://kentons.biz/product/r3-t5-3mm-hole-5mm-pitch-copper/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-5mmpitch.jpg",
+  "cats": [
+   "copper",
+   "perforated-metal",
+   "round-hole-staggered-pitch-copper"
+  ],
+  "family": "perforated",
+  "material": "Copper",
+  "hole": "round-staggered",
+  "code": "R3 T5",
+  "spec": {
+   "Perforated sheet in": "Copper",
+   "Dimension": "0.6 x 1000 x 2000 mm",
+   "Perforation": "R3 T5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K030C R3 T5",
+  "material_detail": "Copper",
+  "open_area": "32%",
+  "perforation": "R3 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.6mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.7mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 545,
+  "name": "R20 U48.5 \u2013 20mm Hole 48.5mm Pitch",
+  "slug": "r20-u48-5-20mm-hole-48-5mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r20-u48-5-20mm-hole-48-5mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R20mm-U48.5mm.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-square-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-square",
+  "code": "R20 U48.5",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "R20 T48.5 DIN 24041",
+   "Open area": "13%"
+  },
+  "pattern": "K510 R20 U48.5",
+  "material_detail": "Aluminium",
+  "open_area": "13%",
+  "perforation": "R20 T48.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 544,
+  "name": "R10 U26 \u2013 10mm Hole 26mm Pitch",
+  "slug": "r10-u26-10mm-hole-26mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r10-u26-10mm-hole-26mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U26mm.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-square-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-square",
+  "code": "R10 U26",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "R10 T26 DIN 24041",
+   "Open area": "12%"
+  },
+  "pattern": "K465 R10 U26",
+  "material_detail": "Aluminium",
+  "open_area": "12%",
+  "perforation": "R10 T26 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 543,
+  "name": "R10 U21 \u2013 10mm Hole 21mm Pitch",
+  "slug": "r10-u21-10mm-hole-21mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r10-u21-10mm-hole-21mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U15mm.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-square-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-square",
+  "code": "R10 U21",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "R10 T21 DIN 24041",
+   "Open area": "18%"
+  },
+  "pattern": "K430 R10 U21",
+  "material_detail": "Aluminium",
+  "open_area": "18%",
+  "perforation": "R10 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 542,
+  "name": "R4.5 U15 \u2013 4.5mm Hole 15mm Pitch",
+  "slug": "r4-5-u15-4-5mm-hole-15mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r4-5-u15-4-5mm-hole-15mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R4.5mm-U15mm.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-square-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-square",
+  "code": "R4.5 U15",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R4.5 T15 DIN 24041",
+   "Open area": "7%"
+  },
+  "pattern": "K450 R4.5 U15",
+  "material_detail": "Aluminium",
+  "open_area": "7%",
+  "perforation": "R4.5 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 541,
+  "name": "LR5x20 \u2013 20mm Hole",
+  "slug": "lr5x20-20mm-hole-aluminium",
+  "source": "https://kentons.biz/product/lr5x20-20mm-hole-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5x20mmhole-LR5x20.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "slotted-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "slotted",
+  "code": "LR5x20",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "LR5x20 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "KS5M Lvl 5\u00d720",
+  "material_detail": "Aluminium",
+  "open_area": "44%",
+  "perforation": "LR5x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 540,
+  "name": "LR3x20 \u2013 20mm Hole",
+  "slug": "lr3x20-20mm-hole-aluminium",
+  "source": "https://kentons.biz/product/lr3x20-20mm-hole-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-3x20mmhole-LR3x20.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "slotted-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "slotted",
+  "code": "LR3x20",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "LR3x20 DIN 24041",
+   "Open area": "36%"
+  },
+  "pattern": "KS3M Lvl 3\u00d720",
+  "material_detail": "Aluminium",
+  "open_area": "36%",
+  "perforation": "LR3x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 538,
+  "name": "C25 U30 \u2013 25mm Hole 30mm Pitch",
+  "slug": "c25-u30-25mm-hole-30mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c25-u30-25mm-hole-30mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-20mmhole-50mmpitch-C20U50.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C25 U30",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 150 x 270 mm",
+   "Perforation": "C25 U30 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K075A C25 U30",
+  "material_detail": "Aluminium",
+  "open_area": "69%",
+  "perforation": "C25 U30 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 536,
+  "name": "C20 U50 \u2013 20mm Hole 50mm Pitch",
+  "slug": "c20-u50-20mm-hole-50mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c20-u50-20mm-hole-50mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-20mmhole-50mmpitch-C20U50.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C20 U50",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C20 U50 DIN 24041",
+   "Open area": "16%"
+  },
+  "pattern": "K065A C20 U50",
+  "material_detail": "Aluminium",
+  "open_area": "16%",
+  "perforation": "C20 U50 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 535,
+  "name": "C10 U15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "c10-u15-10mm-hole-15mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c10-u15-10mm-hole-15mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch-C10U15.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C10 U15",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "C10 U15 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K140A C10 U15",
+  "material_detail": "Aluminium",
+  "open_area": "44%",
+  "perforation": "C10 U15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 533,
+  "name": "C8 U24 \u2013 8mm Hole 24mm Pitch",
+  "slug": "c8-u24-8mm-hole-24mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c8-u24-8mm-hole-24mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-8mmhole-24mmpitch-C8U24.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C8 U24",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "C7 U10 DIN 24041",
+   "Open area": "11%"
+  },
+  "pattern": "K132A C8 U24",
+  "material_detail": "Aluminium",
+  "open_area": "11%",
+  "perforation": "C7 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 532,
+  "name": "C8 U12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "c8-u12-8mm-hole-12mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c8-u12-8mm-hole-12mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch-C8U12.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C8 U12",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C8 U12 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K125A C8 U12",
+  "material_detail": "Aluminium",
+  "open_area": "44%",
+  "perforation": "C8 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 530,
+  "name": "C7 U10 \u2013 7mm Hole 10mm Pitch",
+  "slug": "c7-u10-7mm-hole-10mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c7-u10-7mm-hole-10mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-7mmhole-10mmpitch-C7U10.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C7 U10",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "C7 U10 DIN 24041",
+   "Open area": "49%"
+  },
+  "pattern": "K118A C7 U10",
+  "material_detail": "Aluminium",
+  "open_area": "49%",
+  "perforation": "C7 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 529,
+  "name": "C6 U9 \u2013 6mm Hole 9mm Pitch",
+  "slug": "c6-u9-6mm-hole-9mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c6-u9-6mm-hole-9mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-9mmpitch-C6U9.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C6 U9",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C6 U9 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K115A C6 U9",
+  "material_detail": "Aluminium",
+  "open_area": "44%",
+  "perforation": "C6 U9 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 528,
+  "name": "C5 U8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "c5-u8-5mm-hole-8mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c5-u8-5mm-hole-8mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5mmhole-8mmpitch-C5U8.jpg",
+  "cats": [
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C5 U8",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C5 U8 DIN 24041",
+   "Open area": "39%"
+  },
+  "pattern": "K110A C5 U8",
+  "material_detail": "Aluminium",
+  "open_area": "39%",
+  "perforation": "C5 U8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 526,
+  "name": "C4 U7 \u2013 4mm Hole 7mm Pitch",
+  "slug": "c4-u7-4mm-hole-7mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/c4-u7-4mm-hole-7mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/06/perforated-metal-4mmhole-7mmpitch-C4U7.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "square-hole-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "square",
+  "code": "C4 U7",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C4 U7 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K10A C4 U7",
+  "material_detail": "Aluminium",
+  "open_area": "32%",
+  "perforation": "C4 U7 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 521,
+  "name": "R20 T28 \u2013 20mm Hole 28mm Pitch",
+  "slug": "r20-t28-20mm-hole-28mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r20-t28-20mm-hole-28mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-20mmhole-28mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R20 T28",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R20 T28 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K080A R20 T28",
+  "material_detail": "Aluminium",
+  "open_area": "46%",
+  "perforation": "R20 T28 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 519,
+  "name": "R15 T21 \u2013 15mm Hole 21mm Pitch",
+  "slug": "r15-t21-15mm-hole-21mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r15-t21-15mm-hole-21mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-15mmhole-21mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R15 T21",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "R15 T21 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K075A R15 T21",
+  "material_detail": "Aluminium",
+  "open_area": "46%",
+  "perforation": "R15 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 518,
+  "name": "R10 T15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "r10-t15-10mm-hole-15mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r10-t15-10mm-hole-15mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R10 T15",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R10 T14 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K065A R10 T15",
+  "material_detail": "Aluminium",
+  "open_area": "40%",
+  "perforation": "R10 T14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 517,
+  "name": "R8 T12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "r8-t12-8mm-hole-12mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r8-t12-8mm-hole-12mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R8 T12",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1250 x 2500 mm",
+   "Perforation": "R8 T12 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K060A R8 T12",
+  "material_detail": "Aluminium",
+  "open_area": "40%",
+  "perforation": "R8 T12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 516,
+  "name": "R6 T9 \u2013 6mm Hole 9mm Pitch",
+  "slug": "r6-t9-6mm-hole-9mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r6-t9-6mm-hole-9mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-9mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R6 T9",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R6 T9 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K050A R6 T9",
+  "material_detail": "Aluminium",
+  "open_area": "40%",
+  "perforation": "R6 T9 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 514,
+  "name": "R5 T8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "r5-t8-5mm-hole-8mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r5-t8-5mm-hole-8mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/04/perforated-metal-5mmhole-8mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R5 T8",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1000 x 2000 mm",
+   "Perforation": "R5 T8 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K045A R5 T8",
+  "material_detail": "Aluminium",
+  "open_area": "35%",
+  "perforation": "R5 T8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.75mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "0.75mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 513,
+  "name": "R4 T6 \u2013 4mm Hole 6mm Pitch",
+  "slug": "r4-t6-4mm-hole-6mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r4-t6-4mm-hole-6mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R4 T6",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "3 x 1000 x 2000 mm",
+   "Perforation": "R4 T6 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K035A R4 T6",
+  "material_detail": "Aluminium",
+  "open_area": "40%",
+  "perforation": "R4 T6 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 512,
+  "name": "R3 T5 \u2013 3mm Hole 5mm Pitch",
+  "slug": "r3-t5-3mm-hole-5mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r3-t5-3mm-hole-5mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-5mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R3 T5",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1,5 x 1250 x 2500 mm",
+   "Perforation": "R3 T5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K030A R3 T5",
+  "material_detail": "Aluminium",
+  "open_area": "32%",
+  "perforation": "R3 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 511,
+  "name": "R2 T3.5 \u2013 2mm Hole 3.5mm Pitch",
+  "slug": "r2-t3-5-2mm-hole-3-5mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r2-t3-5-2mm-hole-3-5mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2mmhole-3.5mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R2 T3.5",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "R2 T3.5 DIN 24041",
+   "Open area": "29%"
+  },
+  "pattern": "K015A R2 T3.5",
+  "material_detail": "Aluminium",
+  "open_area": "29%",
+  "perforation": "R2 T3.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 510,
+  "name": "R1.5 T2.5 \u2013 1.5mm Hole 2.5mm Pitch",
+  "slug": "r1-5-t2-5-1-5mm-hole-2-5mm-pitch-aluminium",
+  "source": "https://kentons.biz/product/r1-5-t2-5-1-5mm-hole-2-5mm-pitch-aluminium/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1.5mmhole-2.5mmpitch.jpg",
+  "cats": [
+   "aluminium",
+   "perforated-metal",
+   "round-hole-staggered-pitch-aluminium"
+  ],
+  "family": "perforated",
+  "material": "Aluminium",
+  "hole": "round-staggered",
+  "code": "R1.5 T2.5",
+  "spec": {
+   "Perforated sheet in": "Aluminium",
+   "Dimension": "1 x 160 x 250 mm",
+   "Perforation": "1.5 T2.5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K005A R1.5 T2.5",
+  "material_detail": "Aluminium",
+  "open_area": "32%",
+  "perforation": "1.5 T2.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 505,
+  "name": "C8 U10 \u2013 8mm Hole 10mm Pitch",
+  "slug": "c8-u10-8mm-hole-10mm-pitch-mild-steel",
+  "source": "https://kentons.biz/product/c8-u10-8mm-hole-10mm-pitch-mild-steel/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-10mmpitch-C8U10.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C8 U10",
+  "spec": {
+   "Perforated sheet in": "Mild steel",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "C8 U10 DIN 24041",
+   "Open area": "64%"
+  },
+  "pattern": "K120M C8 U10",
+  "material_detail": "Mild steel",
+  "open_area": "64%",
+  "perforation": "C8 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 497,
+  "name": "C10 U15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "c10-u15-10mm-hole-15mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/c10-u15-10mm-hole-15mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch-C10U15.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "square-hole-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "square",
+  "code": "C10 U15",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U15 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K140G C10 U15",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "44%",
+  "perforation": "C10 U15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 496,
+  "name": "C10 U12 \u2013 10mm Hole 12mm Pitch",
+  "slug": "c10-u12-10mm-hole-12mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/c10-u12-10mm-hole-12mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-12mmpitch-C10U12.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "square-hole-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "square",
+  "code": "C10 U12",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U12 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K130G C10 U12",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "69%",
+  "perforation": "C10 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 495,
+  "name": "C8 U12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "c8-u12-8mm-hole-12mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/c8-u12-8mm-hole-12mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch-C8U12.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "square-hole-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "square",
+  "code": "C8 U12",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C8 U12 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K125G C8 U12",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "44%",
+  "perforation": "C8 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 492,
+  "name": "C8 U10 \u2013 8mm Hole 10mm Pitch",
+  "slug": "c8-u10-8mm-hole-10mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/c8-u10-8mm-hole-10mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-10mmpitch-C8U10.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "square-hole-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "square",
+  "code": "C8 U10",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C8 U10 DIN 24041",
+   "Open area": "64%"
+  },
+  "pattern": "K120G C8 U10",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "64%",
+  "perforation": "C8 U10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 491,
+  "name": "C5 U8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "c5-u8-5mm-hole-8mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/c5-u8-5mm-hole-8mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5mmhole-8mmpitch-C5U8.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "square-hole-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "square",
+  "code": "C5 U8",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C5 U8 DIN 24041",
+   "Open area": "39%"
+  },
+  "pattern": "K110G C5 U8",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "39%",
+  "perforation": "C5 U8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 489,
+  "name": "R10 U21 \u2013 10mm Hole 21mm Pitch",
+  "slug": "r10-u21-10mm-hole-21mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r10-u21-10mm-hole-21mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U15mm.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-square-pitch"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-square",
+  "code": "R10 U21",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x (b) x (l) mm",
+   "Perforation": "R10 T21 DIN 24041",
+   "Open area": "18%"
+  },
+  "pattern": "K430 R10 U21",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "18%",
+  "perforation": "R10 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 487,
+  "name": "R4.5 U15 \u2013 4.5mm Hole 15mm Pitch",
+  "slug": "r4-5-u15-4-5mm-hole-15mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r4-5-u15-4-5mm-hole-15mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R4.5mm-U15mm.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-square-pitch"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-square",
+  "code": "R4.5 U15",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R4.5 T15 DIN 24041",
+   "Open area": "7%"
+  },
+  "pattern": "K450 R4.5 U15",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "7%",
+  "perforation": "R4.5 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 485,
+  "name": "R20 T28 \u2013 20mm Hole 28mm Pitch",
+  "slug": "r20-t28-20mm-hole-28mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r20-t28-20mm-hole-28mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-20mmhole-28mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R20 T28",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R20 T28 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K080G R20 T28",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "46%",
+  "perforation": "R20 T28 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 484,
+  "name": "R15 T21 \u2013 15mm Hole 21mm Pitch",
+  "slug": "r15-t21-15mm-hole-21mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r15-t21-15mm-hole-21mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-15mmhole-21mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R15 T21",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1250 x 2500 mm",
+   "Perforation": "R15 T21 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K075G R15 T21",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "46%",
+  "perforation": "R15 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 482,
+  "name": "R10 T15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "r10-t15-10mm-hole-15mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r10-t15-10mm-hole-15mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R10 T15",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R10 T14 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K065G R10 T15",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "40%",
+  "perforation": "R10 T14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days*",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 481,
+  "name": "R10 T14 \u2013 10mm Hole 14mm Pitch",
+  "slug": "r10-t14-10mm-hole-14mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r10-t14-10mm-hole-14mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-14mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R10 T14",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R10 T14 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K062G R10 T14",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "46%",
+  "perforation": "R10 T14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 480,
+  "name": "R8 T12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "r8-t12-8mm-hole-12mm-pitch-pre-galvanised-2",
+  "source": "https://kentons.biz/product/r8-t12-8mm-hole-12mm-pitch-pre-galvanised-2/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R8 T12",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "3 x 1250 x 2500 mm",
+   "Perforation": "R8 T12 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K060G R8 T12",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "40%",
+  "perforation": "R8 T12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 479,
+  "name": "R8 T11 \u2013 8mm Hole 11mm Pitch",
+  "slug": "r8-t11-8mm-hole-11mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r8-t11-8mm-hole-11mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-11mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R8 T11",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "R8 T11 DIN 24041",
+   "Open area": "48%"
+  },
+  "pattern": "K055G R8 T11",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "48%",
+  "perforation": "R8 T11 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 477,
+  "name": "R8 T10 \u2013 8mm Hole 10mm Pitch",
+  "slug": "r8-t10-8mm-hole-10mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r8-t10-8mm-hole-10mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-10mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R8 T10",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R8 T10 DIN 24041",
+   "Open area": "58%"
+  },
+  "pattern": "K048G R8 T10",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "58%",
+  "perforation": "R8 T10 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 475,
+  "name": "R6 T8 \u2013 6mm Hole 8mm Pitch",
+  "slug": "r6-t8-6mm-hole-8mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r6-t8-6mm-hole-8mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-8mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R6 T8",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "R6 T8 DIN 24041",
+   "Open area": "51%"
+  },
+  "pattern": "K047G R6 T8",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "51%",
+  "perforation": "R6 T8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 473,
+  "name": "R5 T8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "r5-t8-5mm-hole-8mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r5-t8-5mm-hole-8mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/04/perforated-metal-5mmhole-8mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R5 T8",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "0.75 x 1250 x 2500 mm",
+   "Perforation": "R5 T8 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K045G R5 T8",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "35%",
+  "perforation": "R5 T8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.75mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.75mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 471,
+  "name": "R5 T7 \u2013 5mm Hole 7mm Pitch",
+  "slug": "r5-t7-5mm-hole-7mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r5-t7-5mm-hole-7mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-5mmhole-7mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R5 T7",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1.5 x 1250 x 2500 mm",
+   "Perforation": "R5 T7 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K040G R5 T7",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "46%",
+  "perforation": "R5 T7 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 470,
+  "name": "R4 T6 \u2013 4mm Hole 6mm Pitch",
+  "slug": "r4-t6-4mm-hole-6mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r4-t6-4mm-hole-6mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R4 T6",
+  "spec": {
+   "Perforated sheet in": "Pre-Galvanised Steel",
+   "Dimension": "0.75 x 1250 x 2500 mm",
+   "Perforation": "R4 T6 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K035G R4 T6",
+  "material_detail": "Pre-Galvanised Steel",
+  "open_area": "40%",
+  "perforation": "R4 T6 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 468,
+  "name": "R3 T5 \u2013 3mm Hole 5mm Pitch",
+  "slug": "r3-t5-3mm-hole-5mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r3-t5-3mm-hole-5mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R3 T5",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R3 T5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K030G R3 T5",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "32%",
+  "perforation": "R3 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "0.75mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 467,
+  "name": "R2 T3.5 \u2013 2mm Hole 3.5mm Pitch",
+  "slug": "r2-t3-5-2mm-hole-3-5mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r2-t3-5-2mm-hole-3-5mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2mmhole-3.5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R2 T3.5",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R2 T3.5 DIN 24041",
+   "Open area": "29%"
+  },
+  "pattern": "K015G R2 T3.5",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "29%",
+  "perforation": "R2 T3.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 465,
+  "name": "R1.5 T2.5 \u2013 1.5mm Hole 2.5mm Pitch",
+  "slug": "r1-5-t2-5-1-5mm-hole-2-5mm-pitch-pre-galvanised",
+  "source": "https://kentons.biz/product/r1-5-t2-5-1-5mm-hole-2-5mm-pitch-pre-galvanised/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1.5mmhole-2.5mmpitch.jpg",
+  "cats": [
+   "perforated-metal",
+   "pre-galvanised-steel",
+   "round-hole-staggered-pitch-pre-galvanised-steel"
+  ],
+  "family": "perforated",
+  "material": "Pre-Galvanised Steel",
+  "hole": "round-staggered",
+  "code": "R1.5 T2.5",
+  "spec": {
+   "Perforated sheet in": "Pre-galvanised steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "1.5 T2.5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K005G R1.5 T2.5",
+  "material_detail": "Pre-galvanised steel",
+  "open_area": "32%",
+  "perforation": "1.5 T2.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 449,
+  "name": "LR5x20 \u2013 20mm Hole",
+  "slug": "lr5x20-20mm-hole",
+  "source": "https://kentons.biz/product/lr5x20-20mm-hole/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5x20mmhole-LR5x20.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "slotted-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "slotted",
+  "code": "LR5x20",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "LR5x20 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "KS5M Lvl 5\u00d720",
+  "material_detail": "Mild Steel",
+  "open_area": "44%",
+  "perforation": "LR5x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 446,
+  "name": "LR3x20 \u2013 20mm Hole",
+  "slug": "lr3x20-20mm-hole",
+  "source": "https://kentons.biz/product/lr3x20-20mm-hole/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-3x20mmhole-LR3x20.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "slotted-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "slotted",
+  "code": "LR3x20",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "LR3x20 DIN 24041",
+   "Open area": "36%"
+  },
+  "pattern": "KS3M Lvl 3\u00d720",
+  "material_detail": "Mild Steel",
+  "open_area": "36%",
+  "perforation": "LR3x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 444,
+  "name": "LR2x20 \u2013 20mm Hole",
+  "slug": "lr2x20-20mm-hole",
+  "source": "https://kentons.biz/product/lr2x20-20mm-hole/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-2x20mmhole-LR2x20.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "slotted-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "slotted",
+  "code": "LR2x20",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1,5 x 1500 x 3000 mm",
+   "Perforation": "LR2x20 DIN 24041",
+   "Open area": "33%"
+  },
+  "pattern": "KS2M Lvl 2\u00d720",
+  "material_detail": "Mild Steel",
+  "open_area": "33%",
+  "perforation": "LR2x20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 442,
+  "name": "C25 U30 \u2013 25mm Hole 30mm Pitch",
+  "slug": "c25-u30-25mm-hole-30mm-pitch",
+  "source": "https://kentons.biz/product/c25-u30-25mm-hole-30mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-25mmhole-30mmpitch-C25U30.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C25 U30",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "3 x 1500 x 3000 mm",
+   "Perforation": "C25 U30 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K152M C25 U30",
+  "material_detail": "Mild Steel",
+  "open_area": "69%",
+  "perforation": "C25 U30 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 440,
+  "name": "C20 U25 \u2013 20mm Hole 25mm Pitch",
+  "slug": "c20-u25-20mm-hole-25mm-pitch",
+  "source": "https://kentons.biz/product/c20-u25-20mm-hole-25mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-20mmhole-25mmpitch-C20U25.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C20 U25",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "3 x 1500 x 3000 mm",
+   "Perforation": "C20 U25 DIN 24041",
+   "Open area": "62%"
+  },
+  "pattern": "K148M C20 U25",
+  "material_detail": "Mild Steel",
+  "open_area": "62%",
+  "perforation": "C20 U25 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 438,
+  "name": "C15 U20 \u2013 15mm Hole 20mm Pitch",
+  "slug": "c15-u20-15mm-hole-20mm-pitch",
+  "source": "https://kentons.biz/product/c15-u20-15mm-hole-20mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-15mmhole-20mmpitch-C15U20.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C15 U20",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "3 x 1500 x 3000 mm",
+   "Perforation": "C15 U20 DIN 24041",
+   "Open area": "56%"
+  },
+  "pattern": "K145M C15 U20",
+  "material_detail": "Mild Steel",
+  "open_area": "56%",
+  "perforation": "C15 U20 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 436,
+  "name": "C10 U15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "c10-u15-10mm-hole-15mm-pitch",
+  "source": "https://kentons.biz/product/c10-u15-10mm-hole-15mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch-C10U15.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C10 U15",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U15 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K140M C10 U15",
+  "material_detail": "Mild Steel",
+  "open_area": "44%",
+  "perforation": "C10 U15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 434,
+  "name": "C10 U14 \u2013 10mm Hole 14mm Pitch",
+  "slug": "c10-u14-10mm-hole-14mm-pitch",
+  "source": "https://kentons.biz/product/c10-u14-10mm-hole-14mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-14mmpitch-C10U14.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C10 U14",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U14 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K135M C10 U14",
+  "material_detail": "Mild Steel",
+  "open_area": "69%",
+  "perforation": "C10 U14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 432,
+  "name": "C10 U12 \u2013 10mm Hole 12mm Pitch",
+  "slug": "c10-u12-10mm-hole-12mm-pitch",
+  "source": "https://kentons.biz/product/c10-u12-10mm-hole-12mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-12mmpitch-C10U12.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C10 U12",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1500 x 3000 mm",
+   "Perforation": "C10 U12 DIN 24041",
+   "Open area": "69%"
+  },
+  "pattern": "K130M C10 U12",
+  "material_detail": "Mild Steel",
+  "open_area": "69%",
+  "perforation": "C10 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 430,
+  "name": "C8 U12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "c8-u12-8mm-hole-12mm-pitch",
+  "source": "https://kentons.biz/product/c8-u12-8mm-hole-12mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch-C8U12.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C8 U12",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "C8 U12 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K125M C8 U12",
+  "material_detail": "Mild Steel",
+  "open_area": "44%",
+  "perforation": "C8 U12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 428,
+  "name": "C6 U9 \u2013 6mm Hole 9mm Pitch",
+  "slug": "c6-u9-6mm-hole-9mm-pitch",
+  "source": "https://kentons.biz/product/c6-u9-6mm-hole-9mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-9mmpitch-C6U9.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C6 U9",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C6 U9 DIN 24041",
+   "Open area": "44%"
+  },
+  "pattern": "K115M C6 U9",
+  "material_detail": "Mild Steel",
+  "open_area": "44%",
+  "perforation": "C6 U9 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 426,
+  "name": "C5 U8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "c5-u8-5mm-hole-8mm-pitch",
+  "source": "https://kentons.biz/product/c5-u8-5mm-hole-8mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-5mmhole-8mmpitch-C5U8.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "square-hole"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "square",
+  "code": "C5 U8",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1250 x 2500 mm",
+   "Perforation": "C5 U8 DIN 24041",
+   "Open area": "39%"
+  },
+  "pattern": "K110M C5 U8",
+  "material_detail": "Mild Steel",
+  "open_area": "39%",
+  "perforation": "C5 U8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 421,
+  "name": "R20 U48.5 \u2013 20mm Hole 48.5mm Pitch",
+  "slug": "r20-u48-5-20mm-hole-48-5mm-pitch",
+  "source": "https://kentons.biz/product/r20-u48-5-20mm-hole-48-5mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R20mm-U48.5mm.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-square-pitch-mild-steel"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-square",
+  "code": "R20 U48.5",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x (b) x (l) mm",
+   "Perforation": "R20 T48.5 DIN 24041",
+   "Open area": "13%"
+  },
+  "pattern": "K510 R20 U48.5",
+  "material_detail": "Mild Steel",
+  "open_area": "13%",
+  "perforation": "R20 T48.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 419,
+  "name": "R10 U26 \u2013 10mm Hole 26mm Pitch",
+  "slug": "r10-u26-10mm-hole-26mm-pitch",
+  "source": "https://kentons.biz/product/r10-u26-10mm-hole-26mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U26mm.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-square-pitch-mild-steel"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-square",
+  "code": "R10 U26",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x (b) x (l) mm",
+   "Perforation": "R10 T26 DIN 24041",
+   "Open area": "12%"
+  },
+  "pattern": "K465 R10 U26",
+  "material_detail": "Mild Steel",
+  "open_area": "12%",
+  "perforation": "R10 T26 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 418,
+  "name": "R10 U21 \u2013 10mm Hole 21mm Pitch",
+  "slug": "r10-u21-10mm-hole-21mm-pitch",
+  "source": "https://kentons.biz/product/r10-u21-10mm-hole-21mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U15mm.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-square-pitch-mild-steel"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-square",
+  "code": "R10 U21",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x (b) x (l) mm",
+   "Perforation": "R10 T21 DIN 24041",
+   "Open area": "18%"
+  },
+  "pattern": "K430 R10 U21",
+  "material_detail": "Mild Steel",
+  "open_area": "18%",
+  "perforation": "R10 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 416,
+  "name": "R10 U15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "r10-u15-10mm-hole-15mm-pitch",
+  "source": "https://kentons.biz/product/r10-u15-10mm-hole-15mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R10mm-U15mm.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-square-pitch-mild-steel"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-square",
+  "code": "R10 U15",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x (b) x (l) mm",
+   "Perforation": "R10 T15 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K410 R10 U15",
+  "material_detail": "Mild Steel",
+  "open_area": "35%",
+  "perforation": "R10 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 384,
+  "name": "R4.5 U15 \u2013 4.5mm Hole 15mm Pitch",
+  "slug": "r4-5-u15-4-5mm-hole-15mm-pitch",
+  "source": "https://kentons.biz/product/r4-5-u15-4-5mm-hole-15mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-R4.5mm-U15mm.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-square-pitch-mild-steel"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-square",
+  "code": "R4.5 U15",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R4.5 T15 DIN 24041",
+   "Open area": "7%"
+  },
+  "pattern": "K450 R4.5 U15",
+  "material_detail": "Mild Steel",
+  "open_area": "7%",
+  "perforation": "R4.5 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 363,
+  "name": "R30 T40 \u2013 30mm Hole 40mm Pitch",
+  "slug": "r30-t40-30mm-hole-40mm-pitch",
+  "source": "https://kentons.biz/product/r30-t40-30mm-hole-40mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-30mmhole-40mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R30 T40",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R30 T40 DIN 24041",
+   "Open area": "53%"
+  },
+  "pattern": "K080M R20 T28",
+  "material_detail": "Mild Steel",
+  "open_area": "53%",
+  "perforation": "R30 T40 DIN 24041",
+  "availability": [
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 361,
+  "name": "R20 T28 \u2013 20mm Hole 28mm Pitch",
+  "slug": "r20-t28-20mm-hole-28mm-pitch",
+  "source": "https://kentons.biz/product/r20-t28-20mm-hole-28mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-20mmhole-28mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R20 T28",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R20 T28 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K080M R20 T28",
+  "material_detail": "Mild Steel",
+  "open_area": "46%",
+  "perforation": "R20 T28 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "4.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 359,
+  "name": "R15 T21 \u2013 15mm Hole 21mm Pitch",
+  "slug": "r15-t21-15mm-hole-21mm-pitch",
+  "source": "https://kentons.biz/product/r15-t21-15mm-hole-21mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-15mmhole-21mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R15 T21",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R15 T21 DIN 24041",
+   "Open area": "47%"
+  },
+  "pattern": "K075M R15 T21",
+  "material_detail": "Mild Steel",
+  "open_area": "47%",
+  "perforation": "R15 T21 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "6.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 358,
+  "name": "R12 T16 \u2013 12mm Hole 16mm Pitch",
+  "slug": "r12-t16-12mm-hole-16mm-pitch",
+  "source": "https://kentons.biz/product/r12-t16-12mm-hole-16mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R12 T16",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R12 T16 DIN 24041",
+   "Open area": "51%"
+  },
+  "pattern": "K070M R12 T16",
+  "material_detail": "Mild Steel",
+  "open_area": "51%",
+  "perforation": "R12 T16 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "4.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "10.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 356,
+  "name": "R10 T15 \u2013 10mm Hole 15mm Pitch",
+  "slug": "r10-t15-10mm-hole-15mm-pitch",
+  "source": "https://kentons.biz/product/r10-t15-10mm-hole-15mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-15mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R10 T15",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R10 T15 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K065M R10 T15",
+  "material_detail": "Mild Steel",
+  "open_area": "40%",
+  "perforation": "R10 T15 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "5.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "8.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 353,
+  "name": "R10 T14 \u2013 10mm Hole 14mm Pitch",
+  "slug": "r10-t14-10mm-hole-14mm-pitch",
+  "source": "https://kentons.biz/product/r10-t14-10mm-hole-14mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-10mmhole-14mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R10 T14",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R10 T14 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K065M R10 T14",
+  "material_detail": "Mild Steel",
+  "open_area": "46%",
+  "perforation": "R10 T14 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 352,
+  "name": "R8 T12 \u2013 8mm Hole 12mm Pitch",
+  "slug": "r8-t12-8mm-hole-12mm-pitch",
+  "source": "https://kentons.biz/product/r8-t12-8mm-hole-12mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-12mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R8 T12",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R8 T12 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K035M R8 T12",
+  "material_detail": "Mild Steel",
+  "open_area": "40%",
+  "perforation": "R8 T12 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "4.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "5.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "6.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 350,
+  "name": "R8 T11 \u2013 8mm Hole 11mm Pitch",
+  "slug": "r8-t11-8mm-hole-11mm-pitch",
+  "source": "https://kentons.biz/product/r8-t11-8mm-hole-11mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-8mmhole-11mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R8 T11",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R8 T11 DIN 24041",
+   "Open area": "48%"
+  },
+  "pattern": "K055M R8 T11",
+  "material_detail": "Mild Steel",
+  "open_area": "48%",
+  "perforation": "R8 T11 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 347,
+  "name": "R6 T9 \u2013 6mm Hole 9mm Pitch",
+  "slug": "r6-t9-6mm-hole-9mm-pitch",
+  "source": "https://kentons.biz/product/r6-t9-6mm-hole-9mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/05/perforated-metal-6mmhole-9mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R6 T9",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R6 T9 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K050M R6 T9",
+  "material_detail": "Mild Steel",
+  "open_area": "40%",
+  "perforation": "R6 T9 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "6.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 344,
+  "name": "R5 T8 \u2013 5mm Hole 8mm Pitch",
+  "slug": "r5-t7-5mm-hole-8mm-pitch",
+  "source": "https://kentons.biz/product/r5-t7-5mm-hole-8mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/04/perforated-metal-5mmhole-8mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R5 T8",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "2 x 1000 x 2000 mm",
+   "Perforation": "R5 T8 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K045M R5 T8",
+  "material_detail": "Mild Steel",
+  "open_area": "35%",
+  "perforation": "R5 T8 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "4.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "5.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 288,
+  "name": "R5 T7 \u2013 5mm Hole 7mm Pitch",
+  "slug": "r5-t7-5mm-hole-7mm-pitch",
+  "source": "https://kentons.biz/product/r5-t7-5mm-hole-7mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-5mmhole-7mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R5 T7",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1.5 x 1000 x 2000 mm",
+   "Perforation": "R5 T7 DIN 24041",
+   "Open area": "46%"
+  },
+  "pattern": "K040M R5 T7",
+  "material_detail": "Mild Steel",
+  "open_area": "46%",
+  "perforation": "R5 T7 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.2mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 285,
+  "name": "R4 T6 \u2013 4mm Hole 6mm Pitch",
+  "slug": "r4-t6-4mm-hole-6mm-pitch",
+  "source": "https://kentons.biz/product/r4-t6-4mm-hole-6mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R4 T6",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "3 x (b) x (l) mm",
+   "Perforation": "R4 T6 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K035M R4 T6",
+  "material_detail": "Mild Steel",
+  "open_area": "40%",
+  "perforation": "R4 T6 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 283,
+  "name": "R4 T5 \u2013 4mm Hole 5mm Pitch",
+  "slug": "r4-t5-4mm-hole-5mm-pitch",
+  "source": "https://kentons.biz/product/r4-t5-4mm-hole-5mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-4mmhole-5mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R4 T5",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R4 T5 DIN 24041",
+   "Open area": "58%"
+  },
+  "pattern": "K130M R4 T5",
+  "material_detail": "Mild Steel",
+  "open_area": "58%",
+  "perforation": "R4 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 278,
+  "name": "R3 T5 \u2013 3mm Hole 5mm Pitch",
+  "slug": "r3-t5-3mm-hole-5mm-pitch",
+  "source": "https://kentons.biz/product/r3-t5-3mm-hole-5mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-5mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R3 T5",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "0.75 x 1000 x 2000 mm",
+   "Perforation": "R3 T5 DIN 24041",
+   "Open area": "32%"
+  },
+  "pattern": "K030M R3 T5",
+  "material_detail": "Mild Steel",
+  "open_area": "32%",
+  "perforation": "R3 T5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "3000 x 1500mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "3.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 275,
+  "name": "R3 T4 \u2013 3mm Hole 4mm Pitch",
+  "slug": "r3-t4-3mm-hole-4mm-pitch",
+  "source": "https://kentons.biz/product/r3-t4-3mm-hole-4mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-3mmhole-4mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R3 T4",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1.5 x 1250 x 2500 mm",
+   "Perforation": "R3 T4 DIN 24041",
+   "Open area": "51%"
+  },
+  "pattern": "K025M R3 T4",
+  "material_detail": "Mild Steel",
+  "open_area": "51%",
+  "perforation": "R3 T4 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 235,
+  "name": "R2.5 T4 \u2013 2.5mm Hole 4mm Pitch",
+  "slug": "r2-5-t4-2-5mm-hole-4mm-pitch",
+  "source": "https://kentons.biz/product/r2-5-t4-2-5mm-hole-4mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2.5mmhole-4mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R2.5 T4",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R2.5 T4 DIN 24041",
+   "Open area": "35%"
+  },
+  "pattern": "K020M R2.5 T4",
+  "material_detail": "Mild Steel",
+  "open_area": "35%",
+  "perforation": "R2.5 T4 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "2.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 232,
+  "name": "R2 T3.5 \u2013 2mm Hole 3.5mm Pitch",
+  "slug": "r2-t3-5-2mm-hole-3-5mm-pitch",
+  "source": "https://kentons.biz/product/r2-t3-5-2mm-hole-3-5mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2mmhole-3.5mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R2 T3.5",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R2 T3.5 DIN 24041",
+   "Open area": "29%"
+  },
+  "pattern": "K015M R2 T3.5",
+  "material_detail": "Mild Steel",
+  "open_area": "29%",
+  "perforation": "R2 T3.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2500 x 1250mm",
+    "status": "5-7 days",
+    "note": false
+   },
+   {
+    "thickness": "2mm",
+    "size": "2000 x 1000mm",
+    "status": "5-7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 230,
+  "name": "R2 T3 \u2013 2mm Hole 3mm Pitch",
+  "slug": "r2-t3-1-2mm-hole-3mm-pitch",
+  "source": "https://kentons.biz/product/r2-t3-1-2mm-hole-3mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-2mmhole-3mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R2 T3",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "R2 T3 DIN 24041",
+   "Open area": "40%"
+  },
+  "pattern": "K012M R2 T3",
+  "material_detail": "Mild Steel",
+  "open_area": "40%",
+  "perforation": "R2 T3 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 220,
+  "name": "R1.5 T2.5 \u2013 1.5mm Hole 2.5mm Pitch",
+  "slug": "r1-5-t2-5-1mm-hole-2mm-pitch",
+  "source": "https://kentons.biz/product/r1-5-t2-5-1mm-hole-2mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1.5mmhole-2.5mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R1.5 T2.5",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "1.5 T2.5 DIN 24041",
+   "Open area": "23%"
+  },
+  "pattern": "K010M R1.5 T2.5",
+  "material_detail": "Mild Steel",
+  "open_area": "23%",
+  "perforation": "1.5 T2.5 DIN 24041",
+  "availability": [
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2500 x 1250mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.5mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ },
+ {
+  "id": 164,
+  "name": "R1.1 T2 \u2013 1.1mm Hole 2mm Pitch",
+  "slug": "r1-1-t2-1-1mm-hole-2mm-pitch",
+  "source": "https://kentons.biz/product/r1-1-t2-1-1mm-hole-2mm-pitch/",
+  "image": "https://kentons.biz/wp-content/uploads/2023/03/perforated-metal-1mmhole-2mmpitch.jpg",
+  "cats": [
+   "mild-steel",
+   "perforated-metal",
+   "round-hole-staggered-pitch"
+  ],
+  "family": "perforated",
+  "material": "Mild Steel",
+  "hole": "round-staggered",
+  "code": "R1.1 T2",
+  "spec": {
+   "Perforated sheet in": "Mild Steel",
+   "Dimension": "1 x 1000 x 2000 mm",
+   "Perforation": "1.1 T2 DIN 24041",
+   "Open area": "27%"
+  },
+  "pattern": "K001M R1.1 T2",
+  "material_detail": "Mild Steel",
+  "open_area": "27%",
+  "perforation": "1.1 T2 DIN 24041",
+  "availability": [
+   {
+    "thickness": "0.75mm",
+    "size": "2000 x 1000mm",
+    "status": "5 -7 days",
+    "note": false
+   },
+   {
+    "thickness": "1.0mm",
+    "size": "2000 x 1000mm",
+    "status": "In-stock",
+    "note": false
+   }
+  ],
+  "notes": []
+ }
+]

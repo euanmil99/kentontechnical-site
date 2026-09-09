@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="wrap product-top">
+  <div>
+    <div class="product-image"><img src="{{ p.image }}" alt="{{ p.alt }}" width="800" height="534" fetchpriority="high"></div>
+    {% if p.svg %}<div style="margin-top:1rem;display:flex;gap:1rem;align-items:center"><div>{{ p.svg|safe }}</div><p class="small" style="margin:0">Pattern diagram: {{ p.pattern_desc }}. Not to scale.</p></div>{% endif %}
+  </div>
+  <div>
+    <p class="kicker">{{ p.kicker }}</p>
+    <h1>{{ p.h1 }}</h1>
+    <p class="lede">{{ p.lede }}</p>
+    <div class="table-wrap"><table class="spec-table">
+      <tbody>
+      {% for k,v in p.spec %}<tr><th>{{ k }}</th><td>{{ v|safe }}</td></tr>{% endfor %}
+      </tbody>
+    </table></div>
+    <p style="margin-top:1.2rem"><a class="btn btn-primary" href="/contact/?ref={{ p.code|urlencode }}%20{{ p.material_short|urlencode }}">Request a quote for {{ p.code }}</a> <a class="btn btn-outline" href="tel:+441179634579">Call 0117 963 4579</a></p>
+    <p class="small">Prices depend on quantity, thickness and any cutting or finishing. Send the sheet size and quantity you need and we'll quote the same working day where we can.</p>
+  </div>
+</div>
+
+<section class="section">
+  <div class="wrap">
+    <h2>Stock sizes, thicknesses and lead times</h2>
+    <div class="table-wrap"><table class="stock-grid">
+      <thead><tr><th>Thickness</th>{% for s in p.sizes %}<th>{{ s }}</th>{% endfor %}</tr></thead>
+      <tbody>
+      {% for row in p.stock_rows %}<tr><td><strong>{{ row.thickness }}</strong></td>{% for cell in row.cells %}<td>{% if cell %}<span class="badge {{ cell.cls }}">{{ cell.label }}</span>{% else %}<span class="small">–</span>{% endif %}</td>{% endfor %}</tr>{% endfor %}
+      </tbody>
+    </table></div>
+    {% for n in p.notes %}<p class="note" style="margin-top:.8rem">{{ n }}</p>{% endfor %}
+    <p class="small" style="margin-top:.8rem">"In stock" items ship next working day. Other thickness and sheet size combinations, including cut-to-size, are made to order; typical lead time 5–7 working days. Approximate weights are calculated from nominal thickness, material density and open area and are for guidance only.</p>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap prose">
+    <h2>About {{ p.code }} {{ p.material_lc }} perforated sheet</h2>
+    {{ p.body|safe }}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    {% if p.same_pattern %}
+    <h2>{{ p.code }} in other materials</h2>
+    <div class="related" style="margin-bottom:2rem">{% for r in p.same_pattern %}<a class="chip" href="{{ r.path }}">{{ r.material }} {{ r.code }}</a>{% endfor %}</div>
+    {% endif %}
+    <h2>Other {{ p.hole_name_lc }} {{ p.material_lc }} perforations</h2>
+    <div class="related">{% for r in p.siblings %}<a class="chip" href="{{ r.path }}">{{ r.code }} · {{ r.hole_desc }} · {{ r.open_area }}</a>{% endfor %}</div>
+    <p style="margin-top:1.5rem"><a href="{{ p.material_path }}">All {{ p.material_lc }} perforated sheet</a> · <a href="/perforated-metal/finder/?m={{ p.material_short|urlencode }}">Filter in the perforation finder</a> · <a href="/guides/open-area-calculator/">Open area &amp; weight calculator</a></p>
+  </div>
+</section>
+{% endblock %}

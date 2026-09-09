@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section" style="padding-top:1.5rem">
+  <div class="wrap">
+    {% if page.kicker %}<p class="kicker">{{ page.kicker }}</p>{% endif %}
+    <h1>{{ page.h1 }}</h1>
+    {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+    {% if page.hero_image %}<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" width="1200" height="800" style="border-radius:10px;margin:1rem 0 1.5rem;max-height:420px;object-fit:cover;width:100%">{% endif %}
+    <div class="prose">{{ page.body|safe }}</div>
+    {% if page.related_products %}
+    <h2 style="margin-top:2.5rem">Related stock perforations</h2>
+    <div class="related">{% for r in page.related_products %}<a class="chip" href="{{ r.path }}">{{ r.material_short }} {{ r.code }} · {{ r.open_area }}</a>{% endfor %}</div>
+    {% endif %}
+    {% if page.faqs %}
+    <div class="faq" style="margin-top:2.5rem"><h2>{{ page.faq_title or 'Frequently asked questions' }}</h2>{% for q in page.faqs %}<details><summary>{{ q.q }}</summary><p>{{ q.a|safe }}</p></details>{% endfor %}</div>
+    {% endif %}
+    {% if page.cards %}
+    <h2 style="margin-top:2.5rem">{{ page.cards_title }}</h2>
+    <div class="grid grid-3">{% for c in page.cards %}<article class="card card-link">{% if c.image %}<img src="{{ c.image }}" alt="" width="600" height="400" loading="lazy">{% endif %}<div class="card-body"><h3><a class="cover" href="{{ c.path }}">{{ c.title }}</a></h3><p>{{ c.summary }}</p></div></article>{% endfor %}</div>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}
